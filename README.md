@@ -1,1 +1,0 @@
-# openshift-test-netcore-2
